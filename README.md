@@ -4,7 +4,7 @@ Dieses Repository enthält einen simplen POC (Proof of concept) eines "Wahl-*too
 
 ## Preview
 
-Man kann sich [hier](https://rawgit.com/gockelhahn/qual-o-mat-kiss/master/index.html) immer die aktuelle Version anzeigen lassen.
+Man kann sich [hier](https://gockelhahn.github.io/qual-o-mat-kiss/) immer die aktuelle Version anzeigen lassen.
 
 ## Setup
 
